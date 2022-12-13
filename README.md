@@ -35,11 +35,11 @@ veride görece iyi sonuçlar vermektedir.
 Modellerden çıkan çeşitli altyazı örnekleri aşağıda verilmiştir.
 
 <div align="center">
-  <img src="/images/result1.png" width="45%"/><br>Fig.1: CNN + RNN için sonuçlar</br>
+  <img src="/images/result1.png"/><br>Fig.1: CNN + RNN için sonuçlar</br>
 </div>
 
 <div align="center">
-  <img src="/images/result2.png" width="45%"/><br>Fig.2: CNN + Transformer için sonuçlar</br> 
+  <img src="/images/result2.png"/><br>Fig.2: CNN + Transformer için sonuçlar</br> 
 </div>
 
 <div align="center">
