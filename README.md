@@ -50,7 +50,7 @@ Aşağıda sayısal sonuçlar verilmiştir. Tüm metrikler için Transformer [1]
 
 
 
-# References
+# Referanslar
 
 [1] [Karpathy, A., & Fei-Fei, L. (2015). Deep visual-semantic alignments for generating image descriptions. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3128-3137).](https://arxiv.org/pdf/1412.2306.pdf)
 
