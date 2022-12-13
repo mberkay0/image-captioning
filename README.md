@@ -1,6 +1,6 @@
 # Turkish Image Captioning (Türkçe Görüntü Altyazılama)
 
-EEE409 Introduction to Machine Learning Project
+### EEE409 Introduction to Machine Learning Project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/mberkay0/image-captioning/blob/main/image_captioning.ipynb)
 
