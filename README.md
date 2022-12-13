@@ -42,7 +42,7 @@ Modellerden çıkan çeşitli altyazı örnekleri aşağıda verilmiştir.
   <img src="/images/result2.png"/><br>Fig.2: CNN + Transformer için sonuçlar</br> 
 </div>
 
-Sayısal sonuçlar verilmiştir. Tüm metrikler için Transformer [1] kullanan model RNN [2] kullanan modeli geçmiştir. 
+Aşağıda sayısal sonuçlar verilmiştir. Tüm metrikler için Transformer [1] kullanan model RNN [2] kullanan modeli geçmiştir. 
 
 <div align="center">
   <img src="/images/result3.png"/><br>Fig.3: Yöntemlerin otomatik değerlendirme sonuçlarına göre standart sapma ve ortalama değerleri.</br> 
